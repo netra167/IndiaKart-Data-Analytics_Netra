@@ -11,6 +11,13 @@ The project covers data cleaning, exploratory data analysis, KPI analysis, Power
 **Netra Bolishetti**  
 Data Analytics Intern at Intermo | BCA Student
 
+I am interested in Data Analytics and Business Intelligence, with hands-on experience in Python, Power BI, SQL, and data visualization.
+
+### Connect With Me
+
+- [LinkedIn](https://www.linkedin.com/in/netra-bolishetti-75602a426/)
+- [GitHub](https://github.com/netra167)
+
 ## Tools & Technologies
 
 - Python
